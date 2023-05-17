@@ -30,9 +30,9 @@ current = true
 
 [node name="1" type="TextureButton" parent="Camera2D"]
 margin_left = -276.0
-margin_top = 304.0
+margin_top = 296.0
 margin_right = -212.0
-margin_bottom = 368.0
+margin_bottom = 360.0
 texture_normal = ExtResource( 1 )
 
 [node name="2" type="TextureButton" parent="Camera2D"]
